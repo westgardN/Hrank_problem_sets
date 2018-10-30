@@ -39,7 +39,7 @@ public class GuessTheNumber {
             System.out.println("Our number is pretty small");
             
         }else if(x >= 11 && x <=100) {
-            System.out.println("Pur number is pretty big");
+            System.out.println("Our number is pretty big");
         } else {
             System.out.println("Our number is out of range");
          
